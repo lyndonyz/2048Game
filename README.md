@@ -6,7 +6,7 @@ This game has very simple controls, being the arrow keys to move the boxes aroun
 Goal: Add up to 2048 to win the game. After that, aim for the high score.
 You lose once there are no more possible moves that you can make.
 
-###Controls:
+### Controls:
 *Up Arrow: move boxes up.
 *Down Arrow: move boxes down.
 *Left Arrow: move boxes left.
