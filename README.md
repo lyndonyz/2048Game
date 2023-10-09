@@ -7,8 +7,8 @@ Goal: Add up to 2048 to win the game. After that, aim for the high score.
 You lose once there are no more possible moves that you can make.
 
 ### Controls:
-*Up Arrow: move boxes up.
-*Down Arrow: move boxes down.
-*Left Arrow: move boxes left.
-*Right Arrow: move boxes right.
-*A Key: Resets the game.
+* Up Arrow: move boxes up.
+* Down Arrow: move boxes down.
+* Left Arrow: move boxes left.
+* Right Arrow: move boxes right.
+* A Key: Resets the game.
